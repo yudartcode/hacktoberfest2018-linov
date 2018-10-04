@@ -1,5 +1,5 @@
 # LANGUAGE: Python
 
-# AUTHOR: Michael Cao
-# GITHUB: https://github.com/mcao
+# AUTHOR: hacktoberfest-linov
+# GITHUB: https://github.com/hacktoberfest-linov
 print('Your Github Username')
