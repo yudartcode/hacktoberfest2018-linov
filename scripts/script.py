@@ -16,3 +16,8 @@ print('Hello World')
 # GITHUB: https://github.com/anwar907
 print('today is holiday')
 print('Hacktoberfest')
+
+# AUTHOR: yudartcode
+# GITHUB: https://github.com/yudartcode
+print('Hi All!')
+print('Hacktoberfest 2018')
